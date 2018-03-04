@@ -1,5 +1,5 @@
 {
-  "name": "ReactJs Boilerplate",
+  "name": "pvieira-react-boilerplate",
   "version": "1.0.0",
   "description": "Boilerplate for ReactJr with Redux, Webpack and all those goodies.",
   "main": "index.js",
